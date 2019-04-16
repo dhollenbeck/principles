@@ -35,6 +35,6 @@ Software engineers should learn to have strong technical opinions, but to surviv
 Suggesting a total rewrite of an application is most always a mistake. Find and propose another solution.
 
 ## Scaling Teams
-If your company management makes a request to scale up a software team the correct response is always 'Yes'. You can educate them about the mythical man month and all the other reason why it won't work, but agree with them to scale up the team. If you are un willing to try to scale up the team because you believe it will be damaging to productivity of the company it would best for your career to find a new job.
+If your company management makes a request to scale up a software team the correct response is always 'Yes'. You can educate them about the mythical man month and all the other reason why it won't work, but agree with them to scale up the team. If you are unwilling to try to scale up the team because you believe it will be damaging to productivity it would best for everyone, including your career, to find a new job.
 
 - https://en.wikipedia.org/wiki/The_Mythical_Man-Month
