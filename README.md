@@ -2,7 +2,7 @@
 Software engineering principles which have served me very well.
 
 ## Reduce costs
-Our engineering time is the most expensive resource we spend and it is governed by system complexity. One hour of engineering time is equal to leasing a server for three plus months.
+Our engineering time is the most expensive resource we spend and it is governed by system complexity. One hour of engineering time is equal to leasing a server for three plus months. If it saves you time to add a server, then just add the server.
 
 ## Make all future work easier
 Do work that makes all future easier. Sometimes this means the immediate work will take longer, but will pay dividends in the future. 
