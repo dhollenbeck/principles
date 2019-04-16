@@ -26,6 +26,7 @@ Try to follow the path of other developers. There is usually a reason the most p
 Software engineers should learn to have strong technical opinions, but to survive you must also learn to hold them lightly.
 
 ## Estimates
-> You need to be willing to endure the discomfort of looking someone in the face, saying “I don’t know”, and then standing your ground when they pressure you to lie to them. They probably don’t want you to lie, but there is a small chance that they pressure you to. If you don’t resist this pressure, you can end up continually giving estimates that are 10x off-target, blowing past them as you **lose credibility**, and running your brain ragged with sleep-deprivation against a problem you haven’t given it the time to break down and understand. 
-- https://news.ycombinator.com/item?id=19671673
+> You need to be willing to endure the discomfort of looking someone in the face, saying “I don’t know”, and then standing your ground when they pressure you to lie to them. They probably don’t want you to lie, but there is a small chance that they pressure you to. If you don’t resist this pressure, you can end up continually giving estimates that are 10x off-target, blowing past them as you **lose credibility**, and running your brain ragged with sleep-deprivation against a problem you haven’t given it the time to break down and understand.
 
+- https://news.ycombinator.com/item?id=19671673
+- https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
