@@ -30,3 +30,6 @@ Software engineers should learn to have strong technical opinions, but to surviv
 
 - https://news.ycombinator.com/item?id=19671673
 - https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
+
+## Rewrites
+Suggesting a total rewrite of an application is most always a mistake.
