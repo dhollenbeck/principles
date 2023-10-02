@@ -8,7 +8,7 @@ Our engineering time is the most expensive resource we spend and it is governed 
 Do work that makes all future easier. Sometimes this means the immediate work will take longer, but will pay dividends in the future. 
 
 ## Focus on our business
-We should maximize our time on our product features and not supporting or managing the IT systems that run the product. Our clients like us because of our product and not the underlining services we run our product on. Any could provider is better a managing these services than we are.
+We should maximize our time on our product features and not supporting or managing the IT systems that run the product. Our clients like us because of our product and not the underlining services we run our product on. Cloud providers are better at managing these services than we are.
 
 ## Reduce complexity
 We should strive to make our servers less important at every decision we make. By servers I really mean the server hard disk. We should work toward a goal of having the server rebuild the disk image on every code deployment. This concept also applies to development workstations. We should have a goal of getting our source to compile immediately from version control checkout without spending days setting up a development workstation.
