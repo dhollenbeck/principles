@@ -1,5 +1,5 @@
-# principles
-Software engineering principles that have served me very well.
+# Principles And Maxims
+Software engineering principles or maxims that have served me very well.
 
 ## Reduce costs
 Our engineering time is the most expensive resource we spend and it is governed by system complexity. One hour of engineering time is equal to leasing a server for three-plus months. If it saves you time to add a server, then just add the server.
@@ -41,3 +41,7 @@ If your company management makes a request to scale up a software team the corre
 
 ## Psychology
 Senior software engineers need to be both arrogant and humble. We need to be arrogant to believe we solve any technical problem. However, we need to be humble in we will be wrong 90% of the time. We just have learned to correct our mistakes before others see them. It is okay to be wrong. When you are wrong just admit and continue solving technical problems.
+
+## Difficult Software Developers
+
+https://neilonsoftware.com/difficult-people-on-software-projects/developers/
